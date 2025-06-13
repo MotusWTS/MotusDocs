@@ -54,6 +54,10 @@ Only available to project managers. Go to: Manage Data -> Manage Stations and se
 * Tags are labeled the following way: \
   `[project short name]#[manufacturer tag ID]:[burst rate] M.[Motus tag ID]`
 
+{% hint style="warning" %}
+Unlike every other detection output on the website, the deployment timeline may display detections of tags that do not have deployments if the detections occurred during the same date bin (e.g. yearly quarter) that the tags were registered in.
+{% endhint %}
+
 ### **Station timeline**
 
 An interactive plot of daily GPS hits, antenna pulses, and filtered tag detections at a given station. Time is plotted on the X axis and each tag or device (GPS/antenna) are plotted as a categorical variable on the Y axis. Data are represented as coloured bars with the intensity increasing with the count of detections for that given variable. An additional row on the top of the plot displays the deployment periods as coloured boxes (colour of box changes with each deployment).
