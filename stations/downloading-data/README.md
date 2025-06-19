@@ -6,7 +6,7 @@ Methods for downloading data from a Motus receiver depends on the model of recei
 
 * [SensorGnome](https://docs.motus.org/sensorgnome/)
 * [CTT SensorStation](https://store.celltracktech.com/pages/installation-guides)
-* [Lotek SRX](https://fccid.io/FW9SRX800/User-Manual/User-Manual-2328127)
+* [Lotek SRX](lotek-srx.md)
 
 {% hint style="info" %}
 **Automated data uploads**\

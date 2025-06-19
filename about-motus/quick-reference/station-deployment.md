@@ -13,7 +13,7 @@ For assistance with the setup of your project please see our [Discussion Group](
 3. [**Purchase equipment**](../../stations/station-equipment/)**.** Make sure you get the right equipment for the types of tags you wish to detect
 4. [**Install the station**](../../stations/station-installation/)**.**&#x20;
 5. [**Register the station.** ](../../project-management/station-management/)
-6. [**Upload data to Motus.**](../../stations/downloading-data.md) Depending on the location and type of receiver, it may be possible to upload data to Motus automatically.&#x20;
+6. [**Upload data to Motus.**](../../stations/downloading-data/) Depending on the location and type of receiver, it may be possible to upload data to Motus automatically.&#x20;
 
 {% hint style="warning" %}
 Tags **MUST** be registered with Motus prior to deployment!
