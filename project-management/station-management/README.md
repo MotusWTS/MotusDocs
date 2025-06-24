@@ -74,7 +74,7 @@ To view a map or table of stations associated with your project(s), go to [**Man
 
 You can toggle your view between a map and table by clicking on the tabs above the map/table.
 
-![](<../../.gitbook/assets/image (23).png>)![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (23).png>)![](<../../.gitbook/assets/image (3) (1).png>)
 
 ### **Filter stations**
 

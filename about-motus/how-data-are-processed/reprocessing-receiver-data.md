@@ -42,7 +42,7 @@ This page is often very slow to respond and difficult to access
 {% tab title="Option 2: Manage Project pages" %}
 A list of recent jobs for a project, including reruns, is available at the bottom of the[ "Upload detection data" page.](https://motus.org/data/project/sgJobs) This page has some basic filtering but cannot be searched, so tends only to be useful for recent jobs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 {% endtab %}

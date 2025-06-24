@@ -17,7 +17,7 @@ A detailed plot of hourly GPS hits, antenna pulses, and unfiltered tag detection
 
 Only available to project managers. Go to: Manage Data -> Manage Stations and select one of the stations from the map or table. In the details pane on the right, click on '**receiver timeline**' under the deployment of interest. This plot can be accessed in a similar manner from the Receiver Management page.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### How to use this plot
 
