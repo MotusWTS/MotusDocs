@@ -36,7 +36,7 @@ Noisy sites are categorized as stations with many runs (>= 100 in an `hourBin`) 
 
 Because, there are so many more unique tag codes available for CTT tags than Lotek tags, the burst interval is not required to identify particular tags. However, short runs are still more likely to be false positives than longer runs.&#x20;
 
-* Runs with 2 consecutive hits and single hits are filtered out
+* Runs with only 2 consecutive hits and single hits are filtered out
 
 ## Manual flagging
 
