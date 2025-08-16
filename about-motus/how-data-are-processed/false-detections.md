@@ -9,7 +9,7 @@ description: >-
 
 ## How do false detections occur
 
-&#x20;In Motus, there are multiple ways in which false detections can occur. The three main causes are below.&#x20;
+&#x20;In Motus, there are multiple ways in which false detections can occur. The main causes are below.&#x20;
 
 * **Environmental radio noise:** this can be anthropogenic or natural (from space!). A related situation is when a receiver's gain or noise filtering settings are allowing too much radio data to be recorded. [Read more about noisy stations here](../../stations/station-inspection/noisy-stations.md).
   * Often occurs during discreet periods, resulting in a conspicuous and temporary spike in detections
@@ -20,7 +20,9 @@ description: >-
   * Only occurs when multiple physical tags are present
   * Tags with false detections usually share the burst interval of those present
   * Typically just a few species detected, and often similar to the tagged species present
+  * Primarily affects Lotek tags, but the liklihood of false detetions of CTT tags also increases as more tags are present
 * **Bad metadata**: researchers haven't entered deployment information for their tags so our system doesn't know they are deployed. Since there is a small degree of tolerance for variability in the tag signal, raw tag data may then resolve to different tags. Note that this is relatively uncommon; it is much more likely in cases of bad metadata that the tags won't be detected at all, until the metadata issue has been resolved and the receiver data reprocessed.
+* **Signal corruption:** For digital tags (e.g. CTT), portions of the tag code may be corrupted and rendered as a different tag. Often this is related to solar tags in low light conditions, and it usually affects the final bits of the code. For example, the tag code `6134307` may be corrupted and appear as `6134300`. Usually these false hits do not match real tags are are filtered out by CTT, but occasionally they do match real tags that may even have active deployments.
 
 ## Identifying False Detections
 
