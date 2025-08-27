@@ -2,7 +2,7 @@
 
 ## Why reprocess receiver data
 
-Detection data is regularly reprocessed (also referred to as "rerun") following the initial upload and processing. This is primarily required to account for changes in metadata. As described [here](../../project-management/tag-metadata-management/tag-metadata.md#entering-metadata), proper metadata management is essential for identifying tags, in particular Lotek tags.&#x20;
+Detection data is regularly reprocessed (also referred to as "rerun") following the initial upload and processing. This is primarily required to account for changes in metadata. As described [here](../../tags/tag-metadata-management/tag-metadata.md#entering-metadata), proper metadata management is essential for identifying tags, in particular Lotek tags.&#x20;
 
 Put simply, if a tag does not does have an active deployment _at the time the receiver data was originally processed_ that covers the period of the detection, that tag will not be among the candidate tags that the _tagfinder_ algorithm has at its disposal when attempting to match raw data with known tags. In other words, your tag will not be detected.
 

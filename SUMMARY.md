@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Motus Docs](README.md)
+* [Motus Docsov](README.md)
 
 ## About Motus
 
@@ -36,12 +36,8 @@
 * [Collaborators](project-management/collaborators.md)
 * [Institutions](project-management/institutions.md)
 * [Citations](project-management/citations.md)
-* [Station Metadata Management](project-management/station-metadata/README.md)
-  * [Detection timelines](explore/detection-timelines.md)
-* [Tag Metadata Management](project-management/tag-metadata-management/README.md)
-  * [Tag Registration](project-management/tag-metadata-management/tag-registration.md)
-  * [Tag Metadata](project-management/tag-metadata-management/tag-metadata.md)
-  * [Move tags to another project](project-management/tag-metadata-management/move-tags.md)
+* [Station Metadata Management](stations/station-metadata/README.md)
+* [Tag Metadata Management](tags/tag-metadata-management/README.md)
 
 ## Stations
 
@@ -64,7 +60,8 @@
   * [Tripod and Pop-up Mast](stations/station-installation/tripod-and-pop-up-mast.md)
   * [Grounding Antennas](stations/station-installation/grounding-antennas.md)
   * [Storage Container](stations/station-installation/storage-container.md)
-* [Station Metadata Management](project-management/station-metadata/README.md)
+* [Station Metadata Management](stations/station-metadata/README.md)
+  * [Detection timelines](explore/detection-timelines.md)
 * [Downloading Data](stations/downloading-data/README.md)
   * [Lotek SRX](stations/downloading-data/lotek-srx.md)
 * [Station Inspection](stations/station-inspection/README.md)
@@ -84,8 +81,11 @@
 * [Tag Basics](tags/tag-basics.md)
 * [How Tags Work](tags/how-tags-work.md)
 * [Selecting and Purchasing Tags](tags/tag-selection.md)
+* [Tag Metadata Management](tags/tag-metadata-management/README.md)
+  * [Tag Registration](tags/tag-metadata-management/tag-registration.md)
+  * [Tag Metadata](tags/tag-metadata-management/tag-metadata.md)
+  * [Move tags to another project](tags/tag-metadata-management/move-tags.md)
 * [Tag Deployment](tags/tag-deployment.md)
-* [Tag Metadata Management](project-management/tag-metadata-management/README.md)
 * [Ambiguous Tags](tags/ambiguous-tags.md)
 * [Tag Aliasing](tags/tag-aliasing.md)
 * [Tag Storage](tags/tag-storage.md)
