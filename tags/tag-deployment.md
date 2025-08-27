@@ -6,7 +6,7 @@ description: Everything you need to know about deploying tags
 
 ## Tag Management
 
-This chapter pertains to tag deployment methods in the field. For information on the management of tag deployment metadata within the Motus system, see [**Tag Management**](../project-management/tag-management/).
+This chapter pertains to tag deployment methods in the field. For information on the management of tag deployment metadata within the Motus system, see [**Tag Management**](../project-management/tag-metadata-management/).
 
 ## Tag Deployment Best Practices
 
@@ -15,8 +15,8 @@ This chapter pertains to tag deployment methods in the field. For information on
 * Ensure local stations and any other stations you may rely on are active and _working_. Never assume that stations are working. Communicate with collaborators that manage stations from which you may expect detections. You may need to regularly check on stations yourself to confirm stations are functional.
 * Tag deployments are most effective when made in close proximity to an active station. Detections on a local station allow you to confirm your tags are working.&#x20;
 * Be sure that tags are activated prior to their deployment using a receiver or an active Motus station.
-* Create a deployment with an anticipated start date prior to deployment. See [Anticipated deployment date](../project-management/tag-management/tag-metadata.md#anticipated-deployment-date).&#x20;
-* Plan to record the required metadata during deployment and update it as soon as you can following deployment. See [Tag Metadata](../project-management/tag-management/tag-metadata.md).
+* Create a deployment with an anticipated start date prior to deployment. See [Anticipated deployment date](../project-management/tag-metadata-management/tag-metadata.md#anticipated-deployment-date).&#x20;
+* Plan to record the required metadata during deployment and update it as soon as you can following deployment. See [Tag Metadata](../project-management/tag-metadata-management/tag-metadata.md).
 
 ## How to tag animals
 
@@ -54,7 +54,7 @@ The following documents are drafts and should be used with caution until the fin
 
 #### Methods
 
-{% file src="../.gitbook/assets/LegLoop-SOP_Feb 2 2024.pdf" %}
+{% file src="../.gitbook/assets/LegLoop-SOP_July 17 2025.pdf" %}
 
 #### Video
 

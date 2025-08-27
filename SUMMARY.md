@@ -36,12 +36,12 @@
 * [Collaborators](project-management/collaborators.md)
 * [Institutions](project-management/institutions.md)
 * [Citations](project-management/citations.md)
-* [Station Management](project-management/station-management/README.md)
+* [Station Metadata Management](project-management/station-metadata/README.md)
   * [Detection timelines](explore/detection-timelines.md)
-* [Tag Management](project-management/tag-management/README.md)
-  * [Tag Registration](project-management/tag-management/tag-registration.md)
-  * [Tag Metadata](project-management/tag-management/tag-metadata.md)
-  * [Move tags to another project](project-management/tag-management/move-tags.md)
+* [Tag Metadata Management](project-management/tag-metadata-management/README.md)
+  * [Tag Registration](project-management/tag-metadata-management/tag-registration.md)
+  * [Tag Metadata](project-management/tag-metadata-management/tag-metadata.md)
+  * [Move tags to another project](project-management/tag-metadata-management/move-tags.md)
 
 ## Stations
 
@@ -64,6 +64,7 @@
   * [Tripod and Pop-up Mast](stations/station-installation/tripod-and-pop-up-mast.md)
   * [Grounding Antennas](stations/station-installation/grounding-antennas.md)
   * [Storage Container](stations/station-installation/storage-container.md)
+* [Station Metadata Management](project-management/station-metadata/README.md)
 * [Downloading Data](stations/downloading-data/README.md)
   * [Lotek SRX](stations/downloading-data/lotek-srx.md)
 * [Station Inspection](stations/station-inspection/README.md)
@@ -84,6 +85,7 @@
 * [How Tags Work](tags/how-tags-work.md)
 * [Selecting and Purchasing Tags](tags/tag-selection.md)
 * [Tag Deployment](tags/tag-deployment.md)
+* [Tag Metadata Management](project-management/tag-metadata-management/README.md)
 * [Ambiguous Tags](tags/ambiguous-tags.md)
 * [Tag Aliasing](tags/tag-aliasing.md)
 * [Tag Storage](tags/tag-storage.md)
