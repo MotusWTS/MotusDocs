@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Motus Docsov](README.md)
+* [Motus Docs](README.md)
 
 ## About Motus
 
