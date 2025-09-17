@@ -58,9 +58,7 @@ When ordering antennas, it’s important to know what frequency you need it to b
 
 Antennas can be purchased from the following suppliers:
 
-* [Laird](https://www.arcantenna.com/plc1669-laird-yagi-heavy-duty-9-element-antenna-for-166-174-mhz-with-uhf-female-connector-track-migratory-birds.html) (through Hutton in Canada Economy 2-way in US)
-* Wade Antenna \[LINK]
-* [Maple Leaf Communications](http://www.mapleleafcom.com)
+* [ZDA communications](https://zdacomm.com/contact/)
 * [Digikey](http://www.mapleleafcom.com)
 
 Use the table below to help select your antenna:
