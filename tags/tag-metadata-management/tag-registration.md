@@ -42,6 +42,6 @@ If this issue is not resolved it will result in missed detections and at least 5
 
 ## Tag Fees
 
-Your project will be invoiced based on the number of tags registered following the [Motus Collaboration Policy and Fee Schedule](https://motus.org/policy2022/).
+Your project will be invoiced based on the number of tags registered following the [Motus Collaboration Policy and Fee Schedule](https://motus.org/resources/policy/).
 
 Please[ contact us ](https://motus.org/contact)if you have any questions regarding tag fees.
