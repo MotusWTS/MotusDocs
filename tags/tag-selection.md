@@ -62,11 +62,11 @@ There is a lot of detail about these three tags that can’t all be explored her
 
 ## **Purchasing Tags**
 
-Specifications for Lotek bird and bat NanoTags can be viewed on the [Lotek Website](http://www.lotek.com/avian-nanotags.htm). Specifications for CTT LifeTags™ and PowerTags™ can be found on the [Cellular Tracking Technologies website](https://celltracktech.com/). When ordering tags, provide the Motus Project ID they are to be registered.&#x20;
+Specifications for Lotek bird and bat NanoTags can be viewed on the [Lotek Website](http://www.lotek.com/avian-nanotags.htm). Specifications for CTT LifeTags™, PowerTags™, HybridTags™, BlūMorpho™, BlūBat™, and BlūBird™ tags can be found on the [Cellular Tracking Technologies website](https://celltracktech.com/). When ordering tags, provide the Motus Project ID they are to be registered.&#x20;
 
 There are several important criteria to consider prior to ordering tags:
 
-* **Frequency:** Lotek NanoTags operate on 166.380 MHz (Western Hemisphere), 150.100 MHz (Europe), and 151.500 MHz (Australia). CTT Power and LifeTags operate on 434 MHz (Worldwide). Consult the receiver map to see the distribution of stations operating on the different frequencies.
+* **Frequency:** Lotek NanoTags operate on 166.380 MHz (Western Hemisphere), 150.100 MHz (Europe), and 151.500 MHz (Australia). CTT Power, Life, and HybridTags operate on 434 MHz (Worldwide).  BlūMorpho, BlūBat, and BlūBird tags operate on 2.4 GHz (Worldwide). Consult the receiver map to see the distribution of stations operating on the different frequencies.
 * **Size:** Minimize weight of the tag + attachment materials.
 * **Operational life:** Battery size and burst interval (amount of time between consecutive pulses) influence the operational life of a tag. Bigger batteries have a longer lifespan, but increased weight. A longer burst interval results in a longer lifespan but reduced detection rate.
 * **Burst interval:** Although a longer burst interval provides a longer operational life, increasing the burst interval reduces the number of data points attainable within a given time period.
