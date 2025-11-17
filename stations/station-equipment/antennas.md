@@ -2,7 +2,7 @@
 
 ## How to select an antenna
 
-It is very important you select the right antenna for the purpose of the station and the type of tags you intend to detect. Antennas are optimized for reception on a particular radio frequency. Since there are multiple tag frequencies, each tag type requires its own antenna; currently an antenna optimized to detect Lotek tags on 166.380 Mhz will not detect CTT tags on 434 Mhz, and vice versa. Wherever possible we recommend installing “dual-mode” stations outfitted with antennas and a receiver that can detect both tags. A dual-frequency antenna is under development, but for the time being, dual-mode stations (those that can listen for more than one frequency, must have two different types of antenna in place.
+It is very important you select the right antenna for the purpose of the station and the type of tags you intend to detect. Antennas are optimized for reception on a particular radio frequency. Since there are multiple tag frequencies, each tag type requires its own antenna; currently an antenna optimized to detect Lotek tags on 166.380 Mhz will not detect CTT tags on 434 Mhz or 2.4 GHz, and vice versa. Wherever possible we recommend installing “dual-mode” or "tri-mode" stations outfitted with antennas and a receiver that can detect multiple tag frequencies. A dual-frequency antenna is under development, but for the time being, dual-mode stations (those that can listen for more than one frequency, must have two different types of antenna in place.
 
 ### How antennas work
 
@@ -54,7 +54,7 @@ The image below shows the antenna in vertical orientation for illustrative purpo
 
 A variety of antenna options exist for VHF telemetry. To date, users have used 3, 5, 6, and 9-element Yagi directional antennas, and single-pole omni-directional antennas. The 9-element Yagis have a long, narrow detection range, whereas 3, 5, or 6-element Yagis have gradually shorter and wider detection ranges. Omni-directional antennas are best suited for determining species presence-absence patterns (e.g. seabirds at a colony), or for detecting birds in close proximity to stations (within a few hundred metres), but not for providing directional information (e.g. departure directions of songbirds from a stopover site).
 
-When ordering antennas, it’s important to know what frequency you need it to be tuned to. For detecting Lotek tags, antennas must be tuned to 150.1 MHz (Europe), 151.5 MHz (Australia), or 166.380 MHz (Western Hemisphere), depending on the region. For detecting CTT tags, antennas must be tuned to 434 MHz.
+When ordering antennas, it’s important to know what frequency you need it to be tuned to. For detecting Lotek tags, antennas must be tuned to 150.1 MHz (Europe), 151.5 MHz (Australia), or 166.380 MHz (Western Hemisphere), depending on the region. For detecting CTT tags, antennas must be tuned to 434 MHz or 2.4 GHz.
 
 Antennas can be purchased from the following suppliers:
 
@@ -117,7 +117,7 @@ A catalogue of cables and their specifications can be found on [Allied Wire & Ca
 
 ## Radio Dongles
 
-Radio dongles, also known as Software Defined Radios (SDRs), are used to convert analog signal received by the antennas into a digital signal that can be interpreted by the SensorGnome . Note that Lotek receivers have a built-in converter and do not require these for station operation. Note that SensorStations only need an SDR for antennas tuned for Lotek tags (anything that isn’t 434 MHz).
+Radio dongles, also known as Software Defined Radios (SDRs), are used to convert analog signal received by the antennas into a digital signal that can be interpreted by the SensorGnome. Note that Lotek receivers have a built-in converter and do not require these for station operation. Note that SensorStations only need an SDR for antennas tuned for Lotek tags.
 
 While there are dozens of available SDR’s on the market, only four models are compatible with SensorGnomes and SensorStations. Most commonly used are the **FUNcube Pro Plus** which have the smallest signal-to-noise ratio (_SNR_), _noise figure_, and _DC voltage spike_ (poor reception at nominal frequency), and power rating. However, FUNcube dongles are the most expensive, costing \~$200 USD, compared to $35 USD for the **RTL-SDR**.&#x20;
 
