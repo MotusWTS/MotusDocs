@@ -10,9 +10,13 @@ After processing, data are stored in the Motus Database. Public dataset availabl
 
 Lotek tags emit an OOK-modulated signal (see [how tags work](../../tags/how-tags-work.md#lotek-radio-tags)) which is recorded as a collection of time-stamped "pulses" on SensorGnome and CTT SensorStation receivers. A large list of these pulses are then processed by the [<mark style="color:green;">**tag finder**</mark>](tag-finder.md) algorithm which essentially looks at the timing between individual pulses ("pulse intervals") and matches them to a list of known Lotek tag IDs. Lotek receivers do not record individual pulses, but actually decode the Lotek Tag IDs internally and record the timing and ID of the tag detection. At this time, the Motus is able to decode tag IDs using tag finder on Motus servers due to an existing NDA between Birds Canada and Lotek, but otherwise this codeset is kept confidential. This is why on-board decoding of Lotek tag IDs can only occur on Lotek receivers at this time.
 
-### **CTT detection data**
+### **CTT 434 MHz detection data**
 
-CTT Tags emit an binary FSK-modulated signal (see [how tags work](../../tags/how-tags-work.md#ctt-radio-tags)) which is recorded as the tag's ID, consisting of 8 hexidecimal characters (E.g.; "1A2B3C4D"). These data are processed on CTT's server to remove false detections using a reference list of known IDs which includes all tag IDs that have been manufactured. The tag finder algorithm is not required to decode the IDs of CTT tags because the hexidecimal ID can be directly decoded from the binary FSK signal without the need of mapping it to a list of known Tag IDs. Decoding is handled by the 434 MHz radios in the Motus receiver before it's stored on the computer.
+434 MHz CTT Tags emit an binary FSK-modulated signal (see [how tags work](../../tags/how-tags-work.md#ctt-radio-tags)) which is recorded as the tag's ID, consisting of 8 hexidecimal characters (E.g.; "1A2B3C4D"). These data are processed on CTT's server to remove false detections using a reference list of known IDs which includes all tag IDs that have been manufactured. The tag finder algorithm is not required to decode the IDs of CTT tags because the hexidecimal ID can be directly decoded from the binary FSK signal without the need of mapping it to a list of known Tag IDs. Decoding is handled by the 434 MHz radios in the Motus receiver before it's stored on the computer.
+
+### CTT BluSeries Detection Data
+
+CTT BluSeries tags emit a signal at 2.4 GHz on the BlueTooth spectrum using a similar ID scheme to their 434 MHz tags, consisting of 8 hexidecimal characters (E.g.; "1A2B3C4D"). Similar to 434 MHz tags, these data are processed on CTT's server to remove false detections using a reference list of known IDs which includes all tag IDs that have been manufactured. The tag finder algorithm is not required to decode the IDs of CTT tags because the hexidecimal ID can be directly decoded from the binary FSK signal without the need of mapping it to a list of known Tag IDs.
 
 ## Tracks
 
@@ -26,8 +30,13 @@ Data are processed differently depending on the type of receiver and tag. Data r
 
 The three diagrams below outline the data processing pipelines for [**the three types of receivers** ](../../stations/station-equipment/receivers.md)used within the Motus network.
 
+
+
 ![SesnorGnome Data Processing Pipeline](<../../.gitbook/assets/SensorGnome Data Processing Pipeline Diagram.png>)
 
 ![CTT SensorStation Data Processing Pipeline](<../../.gitbook/assets/CTT SensorStation Data Processing Pipeline Diagram.png>)
 
 ![Lotek SRX Data Processing Pipeline](<../../.gitbook/assets/Lotek SRX Data Processing Pipeline Diagram.png>)
+
+<figure><img src="../../.gitbook/assets/Bluetooth Data Processing Pipeline Diagram.png" alt=""><figcaption><p>CTT BluSeries Processing pipeline</p></figcaption></figure>
+
