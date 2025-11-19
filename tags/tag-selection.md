@@ -57,6 +57,9 @@ There is a lot of detail about these three tags that can’t all be explored her
 | Price                                 | \~$200 USD                                                                                                           | \~$200 USD                                                                                                                                                       |
 | Discount                              | Contact Lotek                                                                                                        | Contact Lotek                                                                                                                                                    |
 
+**\* This number is calculated by multiplying the number of unique ID’s emitted by Lotek tags (517) with the number of unique burst intervals available (70). These burst intervals range from 2.3 to 39.7 seconds, which corresponds to the number of primes between 23 and 397 such that no two burst intervals overlap with one another.**\
+
+
 
 {% endtab %}
 
@@ -72,9 +75,6 @@ There is a lot of detail about these three tags that can’t all be explored her
 
 {% endtab %}
 {% endtabs %}
-
-**\* This number is calculated by multiplying the number of unique ID’s emitted by Lotek tags (517) with the number of unique burst intervals available (70). These burst intervals range from 2.3 to 39.7 seconds, which corresponds to the number of primes between 23 and 397 such that no two burst intervals overlap with one another.**\
-
 
 ## **Purchasing Tags**
 
