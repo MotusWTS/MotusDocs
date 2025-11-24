@@ -24,11 +24,15 @@ If mains power is unreliable and 24/7 coverage is needed, then you may wish wish
 
 Powering electronics directly from DC is more complicated since there is no single setup for all stations. Instead, the type and amount of power required will depend largely on region and available resources. In order for a station to be compatible with a DC power supply, it must have a method for converting the voltage of a battery - usually 12 volts - to something the receiver can handle, which ranges from 5 to 18 volts, depending on the model.
 
-* CTT SensorStations have built-in voltage converters, allowing them to accept a direct connection to the battery; however, in practice NEVER connect your receiver directly to the battery without a [low-voltage cutoff](power.md#undervoltage-protection) to protect your battery.
+* CTT SensorStations have built-in voltage converters, allowing them to accept a direct connection to the battery; however, in practice NEVER connect your receiver directly to the battery without a [low-voltage cutoff](./#undervoltage-protection) to protect your battery.
 * SensorGnomes require a DC buck converter to lower the voltage down to 5 volts. This component is standard when purchasing from Compudata. Buck converters are only provided in SensorGnomes if requested by RFS Scientific.
 * Contact Lotek or see your receivers user manual for more information on SRX series receivers.
 
 ### Battery
+
+{% hint style="warning" %}
+Selecting a battery is only one step in the process. Storing and caring for batteries is also a key consideration that can be expensive if overlooked, especially when purchasing multiple batteries at once. See [battery-storage-and-maintenance.md](battery-storage-and-maintenance.md "mention") for details.
+{% endhint %}
 
 #### Type
 
@@ -42,7 +46,7 @@ You may also notice there are **flooded** and **sealed lead-acid** (SLA) batteri
 
 We recommend the following batteries, depending on application:
 
-<table><thead><tr><th width="293">Application</th><th width="202">Battery type</th><th width="167">Capacity</th></tr></thead><tbody><tr><td>Summer only (12+ hrs of daylight)</td><td>Sealed lead-acid (SLA)</td><td>50 Amp-hours</td></tr><tr><td><a href="power.md#capacity">Year-round (8+ hrs of daylight)</a></td><td>Sealed lead-acid (SLA)</td><td>75 Amp-hours</td></tr><tr><td><a href="power.md#cold-weather">Cold weather (below -10 C)</a></td><td><strong>Lithium Iron Phosphate (LiFePo)</strong></td><td>100 Amp-hours</td></tr></tbody></table>
+<table><thead><tr><th width="293">Application</th><th width="202">Battery type</th><th width="167">Capacity</th></tr></thead><tbody><tr><td>Summer only (12+ hrs of daylight)</td><td>Sealed lead-acid (SLA)</td><td>50 Amp-hours</td></tr><tr><td><a href="./#capacity">Year-round (8+ hrs of daylight)</a></td><td>Sealed lead-acid (SLA)</td><td>75 Amp-hours</td></tr><tr><td><a href="./#cold-weather">Cold weather (below -10 C)</a></td><td><strong>Lithium Iron Phosphate (LiFePo)</strong></td><td>100 Amp-hours</td></tr></tbody></table>
 
 {% hint style="warning" %}
 All batteries should be rated for 12 Volts. You can also combine two or more batteries in parallel, however they must be the same capacity, brand, and model to reduce the risk of damaging cells.
@@ -50,7 +54,7 @@ All batteries should be rated for 12 Volts. You can also combine two or more bat
 
 #### Capacity
 
-Battery capacity is recorded in Amp-hours (Ah) or Watt-hours (Wh) which is a measurement of current or wattage consumed multiplied by the amount of time current flows. This is helpful because we can easily calculate the amount of Amp-hours we expect our receiver to consume by reviewing the [_power consumption table_](power.md#appendix-b-receiver-power-consumption-table) or by measuring the current of a connected receiver using a voltmeter. Put simply, a SensorGnome which consumes 0.5 A of power at \~12 volts can theoretically run off a 50 Ah battery for 100 hours (50 Ah / 0.5 A = 100 h). Keep in mind that you won’t ever use the full capacity of a battery since it should not be discharged below 10.5 volts (see [Undervoltage Protection](power.md#undervoltage-protection)). In addition, the capacity will slowly decrease over time with each discharge of the battery, so ensure you add an extra 10-15% of capacity to account for this drop over time. Batteries vary in performance at different temperatures as well and average a shorter lifespan in warmer climates.
+Battery capacity is recorded in Amp-hours (Ah) or Watt-hours (Wh) which is a measurement of current or wattage consumed multiplied by the amount of time current flows. This is helpful because we can easily calculate the amount of Amp-hours we expect our receiver to consume by reviewing the [_power consumption table_](./#appendix-b-receiver-power-consumption-table) or by measuring the current of a connected receiver using a voltmeter. Put simply, a SensorGnome which consumes 0.5 A of power at \~12 volts can theoretically run off a 50 Ah battery for 100 hours (50 Ah / 0.5 A = 100 h). Keep in mind that you won’t ever use the full capacity of a battery since it should not be discharged below 10.5 volts (see [Undervoltage Protection](./#undervoltage-protection)). In addition, the capacity will slowly decrease over time with each discharge of the battery, so ensure you add an extra 10-15% of capacity to account for this drop over time. Batteries vary in performance at different temperatures as well and average a shorter lifespan in warmer climates.
 
 When shopping for batteries, we recommend a 50 Ah battery for day lengths greater than 12 hours and a 75 Ah for day lengths under 12 hours.
 
@@ -60,7 +64,7 @@ For cold weather conditions, we recommend self-heating Lithium iron phosphate ba
 
 #### Undervoltage Protection
 
-When using any type of battery to power a station, it is recommended to _**always**_ use undervoltage protection so you do not ruin your battery. While your station may function without one, it greatly reduces battery life and will eventually result in the battery not holding any charge. If using a solar panel to charge the battery, you will require a [charge controller with low voltage cutoff](power.md#charge-controller). Without a charge controller, you will need to buy a low voltage cutoff, also known as an undervoltage protection module.
+When using any type of battery to power a station, it is recommended to _**always**_ use undervoltage protection so you do not ruin your battery. While your station may function without one, it greatly reduces battery life and will eventually result in the battery not holding any charge. If using a solar panel to charge the battery, you will require a [charge controller with low voltage cutoff](./#charge-controller). Without a charge controller, you will need to buy a low voltage cutoff, also known as an undervoltage protection module.
 
 We recommend Sunsaver charge controllers with low-voltage cut-off - minimum 10L (depends on size of solar panel), Specifically XXX, and any solar panel (minimum 90 watt).
 
@@ -82,7 +86,7 @@ The amount of power your panel needs to produce depends on the amount of sun exp
 
 #### Charge Controller
 
-All solar panel setups require a charge controller. This is the device that mediates the power flow between the solar panel and the battery, keeping the panel from overcharging the battery, and ensuring electricity doesn’t flow into the panel at night when the panel voltage drops. We recommend getting a charge controller that also includes undervoltage protection, or ‘low-voltage cutoff’, to further protect the battery from getting overly drained by the receiver, or ‘load’. If your charge controller does not have undervoltage protection, a separate device should be used between the battery and load. See [undervoltage protection](power.md#undervoltage-protection) for more details.
+All solar panel setups require a charge controller. This is the device that mediates the power flow between the solar panel and the battery, keeping the panel from overcharging the battery, and ensuring electricity doesn’t flow into the panel at night when the panel voltage drops. We recommend getting a charge controller that also includes undervoltage protection, or ‘low-voltage cutoff’, to further protect the battery from getting overly drained by the receiver, or ‘load’. If your charge controller does not have undervoltage protection, a separate device should be used between the battery and load. See [undervoltage protection](./#undervoltage-protection) for more details.
 
 The charge controller most often used by Birds Canada is the [MorningStar SunSaver SS-10L-12V](https://www.morningstarcorp.com/products/sunsaver/). This can charge a 12-volt battery with up to 10 Amps of current and includes a low-voltage cutoff. These have proven robust and longer-lasting than cheaper models, but they can still fail so it’s always important to have spares around.
 

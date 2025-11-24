@@ -13,8 +13,7 @@ Copy the **ID**, **Mfg ID**, and **Burst Interval** of the tags you wish to move
 <figure><img src="../../.gitbook/assets/managetagspage.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-_There are a couple easy ways to copy columns in a table on a website depending on the browser you use:_\
-
+_There are a couple easy ways to copy columns in a table on a website depending on the browser you use:_<br>
 
 * _Firefox: hold down the CTRL key while clicking and dragging with your mouse_
 * _Chrome or Edge: use an add-on like_ [_Copytables_ ](https://chromewebstore.google.com/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon)
