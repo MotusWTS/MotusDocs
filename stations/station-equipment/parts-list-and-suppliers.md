@@ -10,21 +10,15 @@ Not all receivers are compatible with all tag types! [Read more about receivers 
 
 ### 166.380 MHz antennas
 
-For Lotek Nanotags in the Western Hemisphere. <mark style="background-color:$success;">**Highlighted**</mark> are recommended
-
-<table><thead><tr><th width="210.00008138020831">Retailer</th><th width="168">Antenna Type</th><th width="94.6666259765625">Gain</th><th width="185.3333740234375">Antenna Model</th><th width="150">Locale</th></tr></thead><tbody><tr><td><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDA Communications</strong></mark></a></td><td><p><mark style="background-color:$success;"><strong>5-element</strong></mark></p><p><mark style="background-color:$success;"><strong>9 element</strong></mark></p></td><td><mark style="background-color:$success;"><strong>10 dBi</strong></mark><br><mark style="background-color:$success;"><strong>12 dBi</strong></mark></td><td><p><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDADJ166-10YG</strong></mark></a></p><p><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDADJ166-12YG</strong></mark></a></p></td><td>USA</td></tr><tr><td><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDA Communications</strong></mark></a></td><td><mark style="background-color:$success;"><strong>Omnidirectional</strong></mark></td><td><mark style="background-color:$success;"><strong>3 dBi</strong></mark></td><td><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDAQJ166-3</strong></mark></a></td><td>USA</td></tr><tr><td>Laird Antenna</td><td>Omnidirectional</td><td>3 dBi</td><td><a href="https://www.talleycom.com/product/ANXFG1620?srsltid=AfmBOop6NVMy5I3zgkzaqeBKE7gj30XFA72cMil-wx0zokh5nmiRyrwp">FG-1622</a></td><td>USA</td></tr><tr><td>Diamond Antenna</td><td>Omnidirectional</td><td>4.7 dBi</td><td><a href="https://www.dxengineering.com/parts/dmn-bc103?srsltid=AfmBOop4aoQPVektEw6iI6GLR1LHlXMNErxOK9YUG41O_kQOlQgNaqoD">BC-103</a></td><td>USA</td></tr></tbody></table>
+{% include "../../.gitbook/includes/antenna-supplier-list-166.md" %}
 
 ### 434 MHz antennas
 
-For CTT LifeTags, PowerTags, and HybridTags globally. <mark style="background-color:$success;">**Highlighted**</mark> are recommended
-
-<table><thead><tr><th width="166.33333333333331">Retailer</th><th width="254.9022556390978">Antenna Type</th><th>Gain</th><th width="161">Antenna Model</th><th>Locale</th></tr></thead><tbody><tr><td><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDA Communications</strong></mark></a></td><td><p><mark style="background-color:$success;"><strong>4-Element</strong></mark><br>6-Element<br>8-Element<br><mark style="background-color:$success;"><strong>7-Element</strong></mark></p><p></p></td><td><p><mark style="background-color:$success;"><strong>8 dBi</strong></mark><br>10 dBi<br>12 dBi</p><p><mark style="background-color:$success;"><strong>14 dBi</strong></mark><br></p></td><td><p><a href="https://excel-wireless.com/product/428-438-mhz-yagi-antenna-8-dbi/"><mark style="background-color:$success;"><strong>ZDADJ433-8YG</strong></mark></a><br><a href="https://excel-wireless.com/product/428-438-mhz-yagi-antenna-10-dbi/">ZDADJ433-10YG</a><br><a href="https://excel-wireless.com/product/428-438-mhz-yagi-antenna-12-dbi/">ZDADJ433-12YG</a></p><p><a href="https://excel-wireless.com/product/428-438-mhz-yagi-antenna-14dbi-gain/"><mark style="background-color:$success;"><strong>ZDADJ433-14YG</strong></mark></a></p><p></p></td><td>USA</td></tr><tr><td><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;"><strong>ZDA Communications</strong></mark></a></td><td><mark style="background-color:$success;"><strong>Omnidirectional</strong></mark></td><td><p>2 dBi</p><p><mark style="background-color:$success;"><strong>5 dBi</strong></mark><br>7 dBi<br>9 dBi</p></td><td><a href="https://excel-wireless.com/product/430-450-mhz-omni-directional-antenna-2-dbi/">ZDAQJ430-2</a><br><a href="https://excel-wireless.com/product/430-450-mhz-omni-directional-antenna-5-dbi/"><mark style="background-color:$success;"><strong>ZDAQJ430-5</strong></mark></a><br><a href="https://excel-wireless.com/product/430-450-mhz-omni-directional-antenna-7-dbi/">ZDAQJ430-7</a><br><a href="https://excel-wireless.com/product/406-430-mhz-omni-antenna-9-dbi/">ZDAQJ430-9</a></td><td>USA</td></tr><tr><td><a href="https://zdacomm.com/contact/"><mark style="background-color:$success;">ZDA Communications</mark></a></td><td>Rubber duck</td><td>2 dBi</td><td><a href="https://excel-wireless.com/product/428-438-mhz-external-antenna-2-dbi-with-sma-male-connector/">ZDAEW433-2</a></td><td>USA</td></tr><tr><td>Data Alliance</td><td>Omnidirectional</td><td></td><td>A433O5</td><td>USA</td></tr><tr><td>Samco</td><td>3-Element Circular-polarized</td><td></td><td>SAM-450RHCP</td><td>USA</td></tr><tr><td>Laird Antenna</td><td>6-Element</td><td></td><td>YS4306</td><td>USA</td></tr><tr><td>Laird Antenna</td><td>3-Element</td><td></td><td>YS4303</td><td>USA</td></tr><tr><td>Telewave</td><td>Omnidirectional</td><td></td><td>ANT450F-2</td><td>Mexico</td></tr></tbody></table>
+{% include "../../.gitbook/includes/antenna-supplier-list-434.md" %}
 
 ### 2.4 GHz antennas
 
-For detecting CTT BlūSeries tags across the globe. <mark style="background-color:$success;">**Highlighted**</mark> are recommended
-
-<table><thead><tr><th width="210.00008138020831">Retailer</th><th width="168">Antenna Type</th><th width="94.6666259765625">Gain</th><th width="185.3333740234375">Antenna Model</th><th width="150">Locale</th></tr></thead><tbody><tr><td>ZDA Communications</td><td>Yagi</td><td>12 dBi</td><td><a href="https://excel-wireless.com/product/2400-2500-mhz-yagi-antenna-12-dbi/"><strong>ZDADJ2400-12YG</strong></a></td><td>USA</td></tr><tr><td>CTT</td><td>Yagi</td><td>??</td><td><a href="https://celltracktech.com/collections/digital-radio-products/products/bluseries-receiver"><mark style="background-color:$success;"><strong>4 antenna kit</strong></mark></a></td><td>USA</td></tr><tr><td>L-com</td><td>Panel</td><td>11 dBi</td><td><a href="https://www.l-com.com/wireless-antenna-24-ghz-11-dbi-mast-mount-mini-panel-antenna-n-female-connector"><mark style="background-color:$success;"><strong>HG2412P</strong></mark></a></td><td>USA</td></tr><tr><td>Terra (CTT)</td><td>Omni</td><td>?</td><td><a href="https://store.terralistens.com/products/bluseries-booster-antenna-for-terra"><mark style="background-color:$success;"><strong>Permium BluSeries antenna</strong></mark></a></td><td>USA</td></tr></tbody></table>
+{% include "../../.gitbook/includes/antenna-supplier-list-2400.md" %}
 
 ### Coaxial Cables
 
@@ -49,8 +43,6 @@ Bulkheads are connectors used to attach **coaxial cables** to the **receiver**. 
 
 <table><thead><tr><th>Connector 1</th><th>Connector 2</th><th width="168">Digikey</th><th>Link</th></tr></thead><tbody><tr><td>Type N Female</td><td>SMA Male</td><td>Digikey</td><td><a href="https://www.digikey.ca/en/products/detail/amphenol-rf/095-902-530-006/12751750">https://www.digikey.ca/en/products/detail/amphenol-rf/095-902-530-006/12751750</a></td></tr></tbody></table>
 
-
-
 {% hint style="info" %}
 CTT SensorStations can be ordered with bulkheads installed.&#x20;
 {% endhint %}
@@ -64,8 +56,6 @@ Careful not to accidentally order any parts that have 'RP' in the name. This sta
 | Frequency Range | Retailer       | Link                                                                                                                                                  |
 | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 137-174         | Scanner Master | [https://www.scannermaster.com/BPF\_VHF\_Band\_Pass\_Filter\_p/24-531041.htm](https://www.scannermaster.com/BPF_VHF_Band_Pass_Filter_p/24-531041.htm) |
-
-
 
 ## Power Supply
 

@@ -11,7 +11,15 @@
 
 ### Tools
 
-<table data-header-hidden><thead><tr><th width="345">Name</th><th width="111">Quantity</th><th>Description</th></tr></thead><tbody><tr><td>Impact driver</td><td>2</td><td> </td></tr><tr><td>Drill</td><td>2</td><td> </td></tr><tr><td>Deep impact sockets (7/16”, 1/2", 9/16”)</td><td>1 of each</td><td> </td></tr><tr><td>Mini screw driver set</td><td>1</td><td>Small enough to fit screw terminals on the receiver and charge controller</td></tr><tr><td>Cobalt drill bit, 5/16 or 1/4”</td><td>1</td><td> </td></tr><tr><td>Hole saw (2 1/2")</td><td>1</td><td> </td></tr><tr><td>Automatic wire strippers</td><td>1</td><td>Has orange handles</td></tr><tr><td>Wire cutter</td><td>1</td><td>Has red handles</td></tr><tr><td>Channel locks</td><td>1</td><td>Large adjustable pliers with red handles</td></tr><tr><td>Wrenches (7/16”, 1/2", 9/16”)</td><td>1 of each</td><td> </td></tr><tr><td>Rotary Hammer</td><td>1</td><td>Large dewalt tool</td></tr><tr><td>Dewalt batteries</td><td>All of them</td><td>Make sure they’re charged, of course!</td></tr><tr><td>SDS plus 5/8” masonry bit</td><td>2</td><td>About 6 inches long. For rotary hammer.</td></tr><tr><td>Swage tool</td><td>1</td><td>Large crimping tool with blue handles. May not have arrived.</td></tr><tr><td>Bolt cutters</td><td>1</td><td> </td></tr><tr><td>Level</td><td>1</td><td>For making sure tower is level!</td></tr><tr><td>Compass or compass app on phone</td><td>1</td><td>For checking antenna directions</td></tr><tr><td>Mallet</td><td>1</td><td>For inserting anchors into rock</td></tr><tr><td>Phillips (cross) screwdriver</td><td>1</td><td> </td></tr><tr><td>Drill bit kit</td><td>1</td><td> </td></tr><tr><td>Clear plastic tubing</td><td>1</td><td> </td></tr><tr><td>Safety Glasses</td><td>2</td><td>For drilling into rock</td></tr><tr><td>N-95 masks</td><td>3-4</td><td>For drilling into rock</td></tr><tr><td>Tape measure</td><td>1</td><td> </td></tr></tbody></table>
+<details>
+
+<summary>Tools</summary>
+
+{% include "../../.gitbook/includes/tool-list-rock-anchored-station.md" %}
+
+
+
+</details>
 
 ## Setup instructions
 

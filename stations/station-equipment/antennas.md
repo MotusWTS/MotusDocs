@@ -61,16 +61,31 @@ Antennas can be purchased from the following suppliers:
 * [ZDA communications](https://zdacomm.com/contact/)
 * [Digikey](http://www.mapleleafcom.com)
 
-Use the table below to help select your antenna:
+Use the tables below to help select your antenna:
 
-| **Antenna type**                                                 | **Typical price (USD)** | **Impedence** | **Theoretical range** | **View**           |
-| ---------------------------------------------------------------- | ----------------------- | ------------- | --------------------- | ------------------ |
-| <mark style="background-color:green;">**3-element Yagi**</mark>  | \$$$                    | 50 Ohms       | \~5 km                | Wide directional   |
-| **5-element Yagi**                                               | \$$$                    | 50 Ohms       | \~8 km                | Directional        |
-| **6-element Yagi**                                               | \$$$                    | 50 Ohms       | \~10 km               | Directional        |
-| <mark style="background-color:green;">**9-element Yagi**</mark>  | \$$$                    | 50 Ohms       | \~15 km               | Narrow directional |
-| <mark style="background-color:green;">**Omnidirectional**</mark> | \$$$                    | 50 Ohms       | \~1 km                | Omnidirectional    |
-| Items listed in green are recommended.                           |                         |               |                       |                    |
+<details>
+
+<summary>166 MHz Antennas</summary>
+
+{% include "../../.gitbook/includes/antenna-supplier-list-166.md" %}
+
+</details>
+
+<details>
+
+<summary>434 MHz Antennas</summary>
+
+{% include "../../.gitbook/includes/antenna-supplier-list-434.md" %}
+
+</details>
+
+<details>
+
+<summary>2400 MHz Antennas</summary>
+
+{% include "../../.gitbook/includes/antenna-supplier-list-2400.md" %}
+
+</details>
 
 ## Coax Cables
 
@@ -140,7 +155,7 @@ Other radio dongles that aren't listed here have not been adequately tested and 
 
 ## Bandpass Filter
 
-
+Currently, there are no known bandpass filters that are well tested and available for purchase.
 
 ## Connectors
 
