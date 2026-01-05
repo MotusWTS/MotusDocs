@@ -50,7 +50,7 @@
   * [Power](stations/station-equipment/power/README.md)
     * [Battery Storage and Maintenance](stations/station-equipment/power/battery-storage-and-maintenance.md)
   * [Parts list and suppliers](stations/station-equipment/parts-list-and-suppliers.md)
-* [Installation guide](stations/station-installation/README.md)
+* [Station Installation](stations/station-installation/README.md)
   * [Antenna and Coax Assembly](stations/station-installation/antenna-and-coax-assembly/README.md)
     * [Laird Yagi](stations/station-installation/antenna-and-coax-assembly/laird-yagi.md)
     * [Intermod/Maple Leaf Yagi](stations/station-installation/antenna-and-coax-assembly/intermod-maple-leaf-yagi.md)
