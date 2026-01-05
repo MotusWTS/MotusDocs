@@ -50,8 +50,8 @@ description: >-
     * 3/16" and 1/4"
   * Phillips/Robinson’s screwdrivers for screws
 
-{% content-ref url="../station-equipment/parts-list-and-suppliers.md" %}
-[parts-list-and-suppliers.md](../station-equipment/parts-list-and-suppliers.md)
+{% content-ref url="../appendix/parts-list-and-suppliers.md" %}
+[parts-list-and-suppliers.md](../appendix/parts-list-and-suppliers.md)
 {% endcontent-ref %}
 
 ### Instructions

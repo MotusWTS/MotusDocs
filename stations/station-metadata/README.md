@@ -5,12 +5,12 @@ description: >-
   stations must be kept accurate and up to date.
 ---
 
-# Station Management
+# Station Metadata Management
 
 This section pertains to the management of station metadata: i.e., the registration of stations and their deployments. To learn more about station equipment and how to deploy them, see our chapter on stations:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/MYjXkFDNabdzy02xyDYY" %}
+[Broken link](/broken/pages/MYjXkFDNabdzy02xyDYY)
 {% endcontent-ref %}
 
 In this chapter you will find:

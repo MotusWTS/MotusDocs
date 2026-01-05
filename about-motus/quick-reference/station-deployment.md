@@ -1,6 +1,6 @@
 # Station Deployment
 
-The technology behind Motus is relatively inexpensive and highly customizable. The sections below provide resources for building and deploying receiving stations. For more information about station deployment, see our [Motus Station Guide](broken-reference).
+The technology behind Motus is relatively inexpensive and highly customizable. The sections below provide resources for building and deploying receiving stations. For more information about station deployment, see our [Motus Station Guide](/broken/pages/MYjXkFDNabdzy02xyDYY).
 
 For assistance with the setup of your project please see our [Discussion Group](https://motus.org/discussion), [Troubleshooting Guide](https://motus.org/troubleshooting) or [contact us](https://motus.org/contact).
 

@@ -5,7 +5,7 @@ description: >-
   sense of the data we collect.
 ---
 
-# Tag Management
+# Tag Metadata Management
 
 {% hint style="danger" %}
 **This chapter is in development**
@@ -13,8 +13,8 @@ description: >-
 
 This section pertains to the management of tag metadata: i.e., the registration of tags and their deployments. To learn more about tags models and how to deploy them, see our chapter on tags:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/UtYFZUNnYurjlw3PT9pm" %}
+[Broken link](/broken/pages/UtYFZUNnYurjlw3PT9pm)
 {% endcontent-ref %}
 
 In this chapter you will find:

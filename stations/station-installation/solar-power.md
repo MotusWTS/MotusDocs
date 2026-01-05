@@ -43,8 +43,8 @@ Read more about charge controllers in [Station Equipment](https://docs.motus.org
 * [Stripper/crimping tool](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
 * Multimeter
 
-{% content-ref url="../station-equipment/parts-list-and-suppliers.md" %}
-[parts-list-and-suppliers.md](../station-equipment/parts-list-and-suppliers.md)
+{% content-ref url="../appendix/parts-list-and-suppliers.md" %}
+[parts-list-and-suppliers.md](../appendix/parts-list-and-suppliers.md)
 {% endcontent-ref %}
 
 ## Instructions

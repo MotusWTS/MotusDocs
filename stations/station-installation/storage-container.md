@@ -46,8 +46,8 @@ There can be a significant risk of damage to your equipment due to flooding, rod
 * [2” hole saw](https://www.homedepot.com/p/Milwaukee-2-in-Hole-Dozer-Bi-Metal-Hole-Saw-with-3-8-in-Arbor-Pilot-Bit-49-56-9667/202327737)
 * 1/4" or similar sized drill bit
 
-{% content-ref url="../station-equipment/parts-list-and-suppliers.md" %}
-[parts-list-and-suppliers.md](../station-equipment/parts-list-and-suppliers.md)
+{% content-ref url="../appendix/parts-list-and-suppliers.md" %}
+[parts-list-and-suppliers.md](../appendix/parts-list-and-suppliers.md)
 {% endcontent-ref %}
 
 #### Instructions

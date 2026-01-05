@@ -121,7 +121,7 @@ Once a problem station/antenna has been identified we have a number of choices:
 
 1. Identify the source of the interference and attempt to aim the problem antenna away from that source. Visual inspection of the landscape, or experimentation with a manual receiver can often help to identify a source of interference.
 2. Use antenna analyzer to verify the antenna still performs within a reasonable threshold. _Instructions to come._
-3. Use the process of elimination to identify whether it is a hardware problem. Replace all components of the problem antenna one at a time: USB cable; Radio Dongle; Coaxial Cable; Antenna. Checks for signs of cracks in the coaxial cable or loose/rusty connections. [**More information.**](broken-reference)
+3. Use the process of elimination to identify whether it is a hardware problem. Replace all components of the problem antenna one at a time: USB cable; Radio Dongle; Coaxial Cable; Antenna. Checks for signs of cracks in the coaxial cable or loose/rusty connections. [**More information.**](/broken/spaces/-MVScgdhPDrmFdURfWXK/pages/-MVv96N9MyJ8D0A68jbh)
 4. Replace the antenna altogether.
 
 ## More examples

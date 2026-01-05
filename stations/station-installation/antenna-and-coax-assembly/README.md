@@ -13,8 +13,8 @@ The driven element and the attached connector are the most sensitive parts of a 
 * **Zip ties, cable ties, zap straps.** These are indispensable for coaxial cable organisation. Used to support the coax cable along the antenna boom and mast.
 * **Hex nuts and bolts.** We use ¼” x 2” bolts for tripod assembly and ¼” x 1” bolts for affixing solar panels to the tripod\*\*.\*\* Use zinc-plates steel unless the station is deployed in a marine area where stainless steel should be used.
 
-{% content-ref url="../../station-equipment/parts-list-and-suppliers.md" %}
-[parts-list-and-suppliers.md](../../station-equipment/parts-list-and-suppliers.md)
+{% content-ref url="../../appendix/parts-list-and-suppliers.md" %}
+[parts-list-and-suppliers.md](../../appendix/parts-list-and-suppliers.md)
 {% endcontent-ref %}
 
 ### Antenna mount
