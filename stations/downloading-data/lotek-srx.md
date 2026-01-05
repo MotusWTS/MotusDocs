@@ -25,17 +25,17 @@ Data can only be downloaded from SRX1200 models with the "MD" or "D" suffix.
 ### Instructions
 
 1. Open the **SRX1200 Host** software, then click the "Download Data" button in the main menu\
-   ![](../../.gitbook/assets/image.png)
+   ![](<../../.gitbook/assets/image (3).png>)
 2. A dialogue box will open with options for the data you wish to download. Select either "Download all log records", "Download All Logs since Last Download", or "Download range" and specify a date range you chose.\
-   ![](<../../.gitbook/assets/image (1).png>)
+   ![](<../../.gitbook/assets/image (1) (1).png>)
 3. Once downloaded, you will need to save the data file in a directory with a unique file name - we recommend checking the box next to "Use Date String" to keep file names unique. Data from the receiver will be saved as a binary .BIN file which will need to be converted in the next steps.\
-   ![](<../../.gitbook/assets/image (2).png>)
+   ![](<../../.gitbook/assets/image (2) (1).png>)
 4. To convert the file into something that can be uploaded to Motus, you can either:
    1. With the Download Data dialog box still open, click button "View" button next to the save button
    2. OR: Click "CodeLog Records" from the main menu.\
-      ![](../../.gitbook/assets/image.png)\
+      ![](<../../.gitbook/assets/image (3).png>)\
       Then click the "Load" button and select the BIN file you want to convert.\
-      ![](<../../.gitbook/assets/image (3).png>)
+      ![](<../../.gitbook/assets/image (3) (1).png>)
 5. With the data loaded, click "Export" at the bottom of the Data Viewer dialogue. A new "Data Export Panel" dialogue will open.
 6. Check the box next to "Export to SRX800 Legacy Format Files" and then click "Export".\
    ![](<../../.gitbook/assets/image (4).png>)

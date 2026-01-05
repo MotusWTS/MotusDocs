@@ -54,6 +54,7 @@
     * [Laird Yagi](stations/station-installation/antenna-and-coax-assembly/laird-yagi.md)
     * [Intermod/Maple Leaf Yagi](stations/station-installation/antenna-and-coax-assembly/intermod-maple-leaf-yagi.md)
     * [Intermod Omni](stations/station-installation/antenna-and-coax-assembly/intermod-omni.md)
+    * [Antenna Mounts for Co-Locates](stations/station-installation/antenna-and-coax-assembly/antenna-mounts-for-co-locates.md)
   * [Solar Power](stations/station-installation/solar-power.md)
   * [Building-bracketed Lattice Tower](stations/station-installation/building-bracketed-lattice-tower.md)
   * [Rock Anchored Lattice Tower](stations/station-installation/rock-anchored-lattice-tower.md)
@@ -93,6 +94,7 @@
 * [Appendix](tags/appendix/README.md)
   * [Tag Harness Sizes](tags/appendix/tag-harness-sizes.md)
   * [Retrieving lost tags](tags/appendix/tag-retrieval.md)
+  * [How to crimp swaging sleeves](tags/appendix/how-to-crimp-swaging-sleeves.md)
 
 ## Exploring Motus Data <a href="#explore" id="explore"></a>
 
