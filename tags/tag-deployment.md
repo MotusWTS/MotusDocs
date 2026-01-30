@@ -27,6 +27,54 @@ This chapter pertains to tag deployment methods in the field. For information on
 3. **You should consider the how fat loading may impact the size of the bird** when fitting a tag to a bird using any of the 3 harnessing methods listed below. In other words, you should consider putting tags on as loosely as possible for individuals that are expected to gain a lot of fat _after_ tagging occurs.
 {% endhint %}
 
+## Tag activation
+
+{% hint style="warning" %}
+### Confirm your tag is active before deploying it!
+
+Regardless of the tag type, you **always** want to confirm each tag is active by looking for detections of your tag on a nearby receiver before you deploy it. See [How to tell when a tag is active](tag-deployment.md#how-to-tell-when-a-tag-is-active) for more details.
+{% endhint %}
+
+### Lotek tags
+
+#### NanoTags
+
+Lotek tags are activated using an infrared activator which must be purchased separately from Lotek. Lotek provides instructions on how to activate tags on their support pages.&#x20;
+
+#### Beacon tags
+
+Lotek Beacon tags come shipped with a magnet which, once removed, causes the tag to start transmitting immediately. It can be reapplied to turn the tag off.&#x20;
+
+### CTT tags
+
+CTT tags activate differently depending on the type of tag:
+
+#### LifeTags
+
+This tag transmits continuously as long as it has sufficient sunlight.
+
+#### HybridTags
+
+Remote the magnet from the tag. It may require charging in sunlight for a few hours to several days before it begins transmitting a signal.
+
+#### PowerTags
+
+Remove the magnet from the tag. It should begin transmitting a signal immediately.
+
+### How to tell when a tag is active
+
+Regardless of the tag type, you **always** want to confirm each tag is active by looking for detections of your tag on a nearby receiver before you deploy it. This will need to be done using different ways depending on the tag type.
+
+#### Lotek NanoTags and Beacon Tags
+
+There are several ways to confirm a Lotek tag is active, but the easiest method is by using a Lotek receiver. How to tell when a Lotek tag is active for more details.
+
+
+
+#### CTT tags (434 MHz)
+
+Use&#x20;
+
 ## How to tag animals
 
 As is the case for any new measurement technique for wild animals, researchers should **always** have in-person training on any tagging method before deploying tags on their own. In addition, tagging animals is hard and requires extensive experience handling birds of various sizes and species before learning how to tag.

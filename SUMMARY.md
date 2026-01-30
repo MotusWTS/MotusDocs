@@ -92,6 +92,7 @@
 * [Tag Aliasing](tags/tag-aliasing.md)
 * [Tag Storage](tags/tag-storage.md)
 * [Appendix](tags/appendix/README.md)
+  * [Methods for confirming a tag has been activated](tags/appendix/methods-for-confirming-a-tag-has-been-activated.md)
   * [Tag Harness Sizes](tags/appendix/tag-harness-sizes.md)
   * [Retrieving lost tags](tags/appendix/tag-retrieval.md)
   * [How to crimp swaging sleeves](tags/appendix/how-to-crimp-swaging-sleeves.md)
