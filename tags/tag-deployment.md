@@ -63,17 +63,11 @@ Remove the magnet from the tag. It should begin transmitting a signal immediatel
 
 ### How to tell when a tag is active
 
-Regardless of the tag type, you **always** want to confirm each tag is active by looking for detections of your tag on a nearby receiver before you deploy it. This will need to be done using different ways depending on the tag type.
+Regardless of the tag type, you **always** want to confirm each tag is active by looking for detections of your tag on a nearby receiver before you deploy it. This will need to be done using different ways depending on the tag type. See below for more details:
 
-#### Lotek NanoTags and Beacon Tags
-
-There are several ways to confirm a Lotek tag is active, but the easiest method is by using a Lotek receiver. How to tell when a Lotek tag is active for more details.
-
-
-
-#### CTT tags (434 MHz)
-
-Use&#x20;
+{% content-ref url="appendix/methods-for-confirming-a-tag-has-been-activated.md" %}
+[methods-for-confirming-a-tag-has-been-activated.md](appendix/methods-for-confirming-a-tag-has-been-activated.md)
+{% endcontent-ref %}
 
 ## How to tag animals
 
