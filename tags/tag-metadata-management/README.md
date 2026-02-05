@@ -32,7 +32,7 @@ Tags are the individual radio transmitters compatible with Motus which are manuf
 
 **Tag deployments**
 
-A deployment is considered to be each instance when a tag was attached to animal and then released. Most tags are never recovered therefore most tags have only one deployment. Tag deployments record all the information regarding the animal that it was attached to, including: date/time of release, location of deployment, species, age, sex, weight, and any other metrics that can be provided.
+A deployment is considered to be each instance when a tag was attached to an animal and then released. Most tags are never recovered therefore most tags have only one deployment. Tag deployments record all the information regarding the animal that it was attached to, including: date/time of release, location of deployment, species, age, sex, weight, and any other metrics that can be provided.
 
 ## Managing Tags
 
