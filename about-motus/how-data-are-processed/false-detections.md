@@ -114,7 +114,7 @@ The proper way to fully deal with false positives — and an essential step for 
 
 If you find obvious false positives on the Motus website, please report them them to us so we can properly flag them and hide them from view. For data downloaded via the [Motus R Package](https://motuswts.github.io/motus/), we only want to know if you have found false detections where `motusFilter` is **not** `0`. That is, if you have found false detections that have _not_ already been flagged.&#x20;
 
-For reporting, send us an email with the **template file below** that includes the following information about each false detection.
+For reporting, [send us an email](mailto:motus@birdscanada.org) with the **template file below** that includes the following information about each false detection.
 
 {% file src="../../.gitbook/assets/flagging_suspect_detections_template.xlsx" %}
 
