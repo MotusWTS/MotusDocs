@@ -18,7 +18,7 @@ c) Mounting to the 'face' of the tower via 2 legs.
 
 This option is the simplest, but is often the first to be eliminated for pre-existing towers as the top mast is either already full or simply does not exist as a feature of the tower. Ideally Coaxial cable runs for Motus setups should not exceed 60ft to minimize signal loss (see antenna diagrams), and existing structures often exceed this threshold.
 
-![Antennas on a mast](../../../.gitbook/assets/unknown.jpeg)
+<img src="../../../.gitbook/assets/unknown.jpeg" alt="Antennas on a mast" height="197" width="416">
 
 ### Mounting to a singular leg
 
@@ -26,19 +26,19 @@ This option can be as simple as connecting the antenna directly to the leg of th
 
 &#x20;
 
-![Yagi antenna legmounted on a large, angle-leg tower](../../../.gitbook/assets/unknown.png)
+<img src="../../../.gitbook/assets/unknown.png" alt="Yagi antenna legmounted on a large, angle-leg tower" height="381" width="446">
 
 ### Mounting to the 'face' of the tower via 2 legs
 
 This option offers the best support, and is the method of choice for most applications.
 
-![Example of face-mounted Yagi antenna](<../../../.gitbook/assets/unknown (1).png>)
+<img src="../../../.gitbook/assets/unknown (1).png" alt="Example of face-mounted Yagi antenna" height="411" width="480">
 
 For the above example, 2 lengths of aluminum angle were used to attach horizontally to the 'face' of the tower, utilizing U-bolts at each leg. A secondary vertical pipe is attached to the ends of the angle, with approximately 26" of room between the tower leg and mounting pipe. This spacing is just enough to allow the Yagi antenna to be oriented as desired, without the elements contacting the tower.
 
-![Close up view](../../../.gitbook/assets/30+)
+<img src="../../../.gitbook/assets/30+" alt="Close up view" height="228" width="480">
 
-![Antenna distancing from the tower: (ZDA 5 element 166mhz)](../../../.gitbook/assets/1.29)
+<img src="../../../.gitbook/assets/1.29" alt="Antenna distancing from the tower: (ZDA 5 element 166mhz)" height="227" width="480">
 
 When custom making a face mount, it is important to keep in mind that for free standing towers, there is always a taper. This comes into play when designing the mounts, as you must be careful to mount the pipe as close to vertical as possible. The easiest way to ensure that the pipe will be mounted vertically, is by measuring out from your center, or plumb line on your mounts. The mounts shown here are approximately 26" apart, which for this tower amounted to a difference of ¾" between the two measurements. In order to properly place the vertical mounting pipe, I first measured between both inner U-bolt holes to find the exact center of the mount on the tower face. Once you have your center line (marked as a 'C' with a line through it) you simply measure the same distance from the center for each mount to were the pipe will be attached. For  smaller mounts a single U-bolt at each connection point is sufficient.
 

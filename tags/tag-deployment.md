@@ -35,31 +35,39 @@ This chapter pertains to tag deployment methods in the field. For information on
 Regardless of the tag type, you **always** want to confirm each tag is active by looking for detections of your tag on a nearby receiver before you deploy it. See [How to tell when a tag is active](tag-deployment.md#how-to-tell-when-a-tag-is-active) for more details.
 {% endhint %}
 
-### Lotek tags
+{% tabs %}
+{% tab title="Lotek" %}
+<table><thead><tr><th width="211.3333740234375">Image</th><th width="307.666748046875">Model</th><th>Activation method</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Lotek-NanoTag.jpg" alt=""></td><td><h4>NanoTag</h4></td><td>Infrared</td></tr><tr><td><img src="../.gitbook/assets/Lotek-Solar-NanoTag.jpg" alt=""></td><td><h4>NanoTag Solar</h4></td><td>Infrared</td></tr><tr><td><img src="../.gitbook/assets/Lotek-BeaconTag.jpg" alt="" data-size="original"></td><td><h4>BeaconTag (MCFT-3-L-M)</h4></td><td>Magnet</td></tr></tbody></table>
 
-#### NanoTags
+#### Activation methods
 
-Lotek tags are activated using an infrared activator which must be purchased separately from Lotek. Lotek provides instructions on how to activate tags on their support pages.&#x20;
+**Infrared**
 
-#### Beacon tags
+Activated using an infrared activator which must be purchased separately from Lotek. Lotek provides instructions on how to activate tags on their support pages.&#x20;
 
-Lotek Beacon tags come shipped with a magnet which, once removed, causes the tag to start transmitting immediately. It can be reapplied to turn the tag off.&#x20;
+**Magnet**
 
-### CTT tags
+Comes shipped with a magnet which, once removed, causes the tag to start transmitting immediately. It can be reapplied to turn the tag off.
+{% endtab %}
 
-CTT tags activate differently depending on the type of tag:
+{% tab title="Cellular Tracking Technologies" %}
+<table><thead><tr><th width="211.3333740234375">Image</th><th width="307.666748046875">Model</th><th>Activation method</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/CTT-LifeTag.png" alt=""></td><td><h4>LifeTag</h4></td><td>Sunlight</td></tr><tr><td><img src="../.gitbook/assets/CTT-HybridTag.png" alt=""></td><td><h4>HybridTag</h4></td><td>Magnet + Sunlight</td></tr><tr><td><img src="../.gitbook/assets/CTT-PowerTag.png" alt="" data-size="original"></td><td><h4><strong>PowerTag</strong></h4></td><td>Magnet</td></tr><tr><td><p></p><p><img src="../.gitbook/assets/CTT-BluMorpho.jpg" alt="" data-size="original"></p></td><td><h4>BluMorpho</h4></td><td>Sunlight</td></tr><tr><td><p></p><p><img src="../.gitbook/assets/CTT-BluBird.png" alt="" data-size="original"></p></td><td><h4>BluBird</h4></td><td>Magnet</td></tr><tr><td><p><img src="../.gitbook/assets/CTT-BluBat.png" alt="" data-size="original"></p><p></p></td><td><h4>BluBat</h4></td><td>Cut</td></tr></tbody></table>
 
-#### LifeTags
+#### Activation methods
 
-This tag transmits continuously as long as it has sufficient sunlight.
+**Sunlight**
 
-#### HybridTags
+This tag transmits continuously as long as it has sufficient sunlight. HybridTag and BluBird may require charging in sunlight for a few hours to several days before it begins transmitting a signal.
 
-Remote the magnet from the tag. It may require charging in sunlight for a few hours to several days before it begins transmitting a signal.
+**Magnet**
 
-#### PowerTags
+Remove the magnet from the tag. PowerTags should begin transmitting a signal immediately.
 
-Remove the magnet from the tag. It should begin transmitting a signal immediately.
+**Cut**
+
+Cut off tab where indicated to activate.
+{% endtab %}
+{% endtabs %}
 
 ### How to tell when a tag is active
 

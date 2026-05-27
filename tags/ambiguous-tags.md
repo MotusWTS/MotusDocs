@@ -6,17 +6,23 @@ description: >-
 
 # Ambiguous Tags
 
-### What are ambiguous tags?
+{% hint style="success" %}
+Since 2022 ambiguous tags are now much rarer thanks to improved data management practices. This chapter mainly applies to _historical data,_ but this still highlights the **importance of maintaining up-to-date metadata on Motus.org**.&#x20;
+
+We communicate closely with the tag manufacturer to ensure tag ID/burst combinations are only released _after_ metadata has indicated these tags have been deprecated or the [<mark style="color:green;">**buffered lifespan**</mark>](tag-metadata-management/tag-metadata.md#how-does-motus-know-when-tags-are-active) has expired.&#x20;
+{% endhint %}
+
+## What are ambiguous tags?
 
 Motus relies on metadata to sort out when tags were deployed and therefore when to expect tags to be detected. But if two of the same tag are deployed at the same time, their identity becomes ambiguous. That is, tags with the same [<mark style="color:green;">**Manufacturer ID**</mark>](../glossary.md#tags) and [<mark style="color:green;">**Burst Rate**</mark>](../glossary.md#tags) and which have an overlapping deployment period will have detections that are grouped together with an 'ambig ID': an ID unique to the specific combination of ambiguous tags.
 
-### Why do multiples of the same tag exist?
+## Why do multiples of the same tag exist?
 
-Lotek tags encode their signal in a way that is energy efficient, but also limits the number of unique IDs to a few tens of thousands. This may seem like a lot, but we would have already exhausted this list of IDs by now if we weren't able to reissue tags. Researchers also require tags with certain burst rates based on their study design, further limiting which IDs can be used.
+Pulse-position modulated tags encode their signal in a way that is energy efficient, but also limits the number of unique IDs to a few tens of thousands. This may seem like a lot, but we would have already exhausted this list of IDs by now if we weren't able to reissue tags. Researchers also require tags with certain burst rates based on their study design, further limiting which IDs can be used.
 
-For this reason, we deprecate tags that have been deployed well beyond their expected lifespan ([<mark style="color:green;">**buffered lifespan**</mark>](tag-metadata-management/tag-metadata.md#how-does-motus-know-when-tags-are-active)) and Lotek keeps track of a list of active Motus tags so they know which ones can be reissued.
+For this reason, we deprecate tags that have been deployed well beyond their expected lifespan ([<mark style="color:green;">**buffered lifespan**</mark>](tag-metadata-management/tag-metadata.md#how-does-motus-know-when-tags-are-active)) and the tag manufacturer keeps track of a list of active Motus tags so they know which ones can be reissued.
 
-However, sometimes researchers have [<mark style="color:green;">**anticipated deployments**</mark>](tag-metadata-management/tag-metadata.md#anticipated-deployment-date) that are never completed (i.e., they anticipated they would deploy a tag, but didn't) and also don't update their metadata to indicate their tags weren't deployed on the anticipated date. This wouldn't be an issue if the tags were never deployed, but most researchers choose to hold on to their tags for subsequent field seasons at which point Lotek may have already reissued the tag to another researcher who may also choose to deploy their tag at the same time.
+However, sometimes researchers have [<mark style="color:green;">**anticipated deployments**</mark>](tag-metadata-management/tag-metadata.md#anticipated-deployment-date) that are never completed (i.e., they anticipated they would deploy a tag, but didn't) and also don't update their metadata to indicate their tags weren't deployed on the anticipated date. This wouldn't be an issue if the tags were never deployed, but most researchers choose to hold on to their tags for subsequent field seasons at which point The tag manufacturer may have already reissued the tag to another researcher who may also choose to deploy their tag at the same time.
 
 In the past, Motus wouldn't be aware that such tags had not been deployed, but Motus now flags anticipated deployments as 'pending' until metadata has been updated _after the_ anticipated deployment date has passed.
 
