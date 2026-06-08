@@ -9,8 +9,8 @@ description: >-
 
 This section pertains to the management of station metadata: i.e., the registration of stations and their deployments. To learn more about station equipment and how to deploy them, see our chapter on stations:
 
-{% content-ref url="/broken/pages/MYjXkFDNabdzy02xyDYY" %}
-[Broken link](/broken/pages/MYjXkFDNabdzy02xyDYY)
+{% content-ref url="https://app.gitbook.com/s/jf0K5m6GrB75xw7Xweac/stations" %}
+[Stations](https://app.gitbook.com/s/jf0K5m6GrB75xw7Xweac/stations)
 {% endcontent-ref %}
 
 In this chapter you will find:

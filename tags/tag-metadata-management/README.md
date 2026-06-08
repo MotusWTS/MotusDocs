@@ -13,8 +13,8 @@ description: >-
 
 This section pertains to the management of tag metadata: i.e., the registration of tags and their deployments. To learn more about tags models and how to deploy them, see our chapter on tags:
 
-{% content-ref url="/broken/pages/UtYFZUNnYurjlw3PT9pm" %}
-[Broken link](/broken/pages/UtYFZUNnYurjlw3PT9pm)
+{% content-ref url="https://app.gitbook.com/s/jf0K5m6GrB75xw7Xweac/tags" %}
+[Tags](https://app.gitbook.com/s/jf0K5m6GrB75xw7Xweac/tags)
 {% endcontent-ref %}
 
 In this chapter you will find:
