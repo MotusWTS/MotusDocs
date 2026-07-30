@@ -154,9 +154,11 @@ Researchers typically follow instructions published in:
 
 > [Jirinec, V., Rodrigues, P.F. and Amaral, B., 2021. Adjustable leg harness for attaching tags to small and medium‐sized birds. Journal of Field Ornithology, 92(1), pp.77-87.](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/jofo.12353)
 
-However, this SOP for Wood Thrushes has useful guide following the same principles:
+However, these SOPs for Wood Thrushes and Snow Bunting have useful guide following the same principles:
 
 {% file src="../.gitbook/assets/WOTH Motus Protocol Updated 2525.pdf" %}
+
+{% file src="../.gitbook/assets/Snow Bunting Adjustable Leg-Loop Harness.pdf" %}
 
 #### Video
 
