@@ -38,5 +38,5 @@ The three diagrams below outline the data processing pipelines for [**the three 
 
 ![Lotek SRX Data Processing Pipeline](<../../.gitbook/assets/Lotek SRX Data Processing Pipeline Diagram.png>)
 
-<figure><img src="../../.gitbook/assets/Bluetooth Data Processing Pipeline Diagram.png" alt=""><figcaption><p>CTT BluSeries Processing pipeline</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bluetooth Data Processing Pipeline Diagram.png" alt=""><figcaption><p>CTT BluSeries Processing pipeline (currently under development)</p></figcaption></figure>
 
