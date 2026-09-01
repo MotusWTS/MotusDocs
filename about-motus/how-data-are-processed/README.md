@@ -32,9 +32,9 @@ The three diagrams below outline the data processing pipelines for [**the three 
 
 
 
-![SesnorGnome Data Processing Pipeline](<../../.gitbook/assets/SensorGnome Data Processing Pipeline Diagram.png>)
+<figure><img src="../../.gitbook/assets/SensorGnome v2 Data Processing Pipeline Diagram.png" alt=""><figcaption><p>SesnorGnome Data Processing Pipeline</p></figcaption></figure>
 
-![CTT SensorStation Data Processing Pipeline](<../../.gitbook/assets/CTT SensorStation Data Processing Pipeline Diagram.png>)
+<figure><img src="../../.gitbook/assets/CTT SensorStation Data Processing Pipeline Diagram(2).png" alt=""><figcaption><p>CTT SensorStation Data Processing Pipeline</p></figcaption></figure>
 
 ![Lotek SRX Data Processing Pipeline](<../../.gitbook/assets/Lotek SRX Data Processing Pipeline Diagram.png>)
 
