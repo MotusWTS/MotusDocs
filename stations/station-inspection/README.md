@@ -26,7 +26,7 @@ If your station is connected to the internet, data will be sent to our servers a
 
 ### Storms
 
-If an extreme whether event has been forecasted it is important to ensure any vulnerable stations are properly secured _**prior**_ to the storm's arrival to minimize damage. If damage is expected, stations should also be checked _**after**_ the storm has passed to fix any issues that may have occurred. This applies to both _**networked**_ and _**offline**_ stations.
+If an extreme weather event has been forecasted it is important to ensure any vulnerable stations are properly secured _**prior**_ to the storm's arrival to minimize damage. If damage is expected, stations should also be checked _**after**_ the storm has passed to fix any issues that may have occurred. This applies to both _**networked**_ and _**offline**_ stations.
 
 {% hint style="info" %}
 Protect your stations from wind by keeping your antennas as low to the ground as practical. If you are in a coastal area, we do not recommend mounting antennas higher than 6 meters (20 feet). If you have a telescopic mast, you can lower antennas further than normal during the winter months if you aren't expecting to detect any tags. Also keep in mind that solar panels will act like a sail so they must be properly secured at all times.
