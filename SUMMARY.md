@@ -76,7 +76,7 @@
 * [Appendix](stations/appendix/README.md)
   * [Parts list and suppliers](stations/appendix/parts-list-and-suppliers.md)
   * [Receiver power consumption table](stations/appendix/receiver-power-consumption-table.md)
-  * [Tool descriptions](stations/appendix/tool-descriptions.md)
+  * [Tool Checklist](stations/appendix/tool-checklist.md)
   * [Part descriptions](stations/appendix/part-descriptions.md)
 
 ## Tags
