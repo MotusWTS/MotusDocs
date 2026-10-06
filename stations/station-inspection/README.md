@@ -57,14 +57,12 @@ In the end, usually not necessary to completely dismantle your station at any ti
 Below are a few items we recommend you bring on each station visit:
 
 * **Spares, spares, spares!** Try to have at least two of everything you might need to replace at a station.
-* If working at heights, appropriate safety equipment (harness, vest, etc.).
-* Bolt cutters, for removing rusted bolts, etc. Very important!
-* Multi-meter: measures both voltage and resistance (to check for shorts and breaks)
-* Gloves
-* Small flat head screwdriver (for rewirign, if needed)
-* Phillips screwdriver
 * Zip ties (to secure cables and wires; close storage bin)
-* SensorGnomes only: spare SD card with software image.
+* **Tools**: Filter the table below to determine which tools you may need for Inspection and Maintenance for your particular Station Configuration, Power Source, and Receiver Type.&#x20;
+
+{% include "../../.gitbook/includes/filter-the-table-below-base....md" %}
+
+{% include "../../.gitbook/includes/tool-checklist-table.md" %}
 
 {% hint style="warning" %}
 #### Inspection Safety
