@@ -26,7 +26,7 @@ Use the diagram below to help determine if there's an issue with your battery or
 
 
 
-Results&#x20;
+## Results&#x20;
 
 * If [Step 1](diagnosing-battery-issues.md#id-1.-with-everything-plugged-in-measure-voltage-at-the-battery) and [Step 2](diagnosing-battery-issues.md#id-2.-with-everything-plugged-in-measure-voltage-at-the-charge-controller) are different, the wiring is bad
 * If [Step 1](diagnosing-battery-issues.md#id-1.-with-everything-plugged-in-measure-voltage-at-the-battery) and [Step 4](diagnosing-battery-issues.md#id-4.-measure-voltage-at-battery-again-when-solar-panel-is-unplugged) are different, the battery is bad
@@ -34,7 +34,7 @@ Results&#x20;
 
 
 
-Notes:&#x20;
+## Notes:&#x20;
 
 * Jiggle the wires when doing the tests to see if the voltage jumps down and then back up - that indicates a flaky connection.
 * The battery being bad doesn't mean it's ruined, it just could be locked in an open-circuit state to protect itself. You should swap it out and troubleshoot it back at the office.
