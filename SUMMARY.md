@@ -72,6 +72,7 @@
   * [Parts description](stations/station-inspection/parts-description.md)
   * [Noisy Stations](stations/station-inspection/noisy-stations.md)
   * [Testing Receiver Antenna Ranges Using a Tag](stations/station-inspection/tag-test.md)
+  * [Diagnosing Battery Issues](stations/station-inspection/diagnosing-battery-issues.md)
 * [General tips](stations/general-tips.md)
 * [Appendix](stations/appendix/README.md)
   * [Parts list and suppliers](stations/appendix/parts-list-and-suppliers.md)
