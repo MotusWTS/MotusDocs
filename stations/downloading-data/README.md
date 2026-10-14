@@ -1,12 +1,18 @@
 # Downloading Data
 
-## Instructions
+## Before getting started
+
+These instructions will help guide you through downloading detection data from a Motus receiver station. Included are details on the equipment you will need, the parts of the receiver, and step-by-step instructions on how to download the data.
+
+Why are we downloading detection data? Motus receiver stations are only capable of automatically sending detection data to the centralized database when a cellular network or WiFi is available. In remote locations with no cellular reception or WiFi, detection data must be manually downloaded from the receiver itself. Once the files are downloaded, data can be emailed to Birds Canada for uploading to the Motus website.
+
+## Instructions&#x20;
 
 Methods for downloading data from a Motus receiver depends on the model of receiver being used. Select a model from the links below to view instructions:
 
 * [SensorGnome](https://docs.motus.org/sensorgnome/)
 * [CTT SensorStation](https://store.celltracktech.com/pages/installation-guides)
-* [Lotek SRX](lotek-srx.md)
+* [Lotek SRX](downloading-data-from-a-lotek-srx.md)
 
 {% hint style="info" %}
 **Automated data uploads**\
@@ -14,7 +20,7 @@ Methods for downloading data from a Motus receiver depends on the model of recei
 Both SensorGnomes and CTT SensorStations can be programmed to automatically upload data to Motus with an internet or cellular connection. Review their guides for more information.
 {% endhint %}
 
-### **Uploading data to Motus**
+## **Uploading data to Motus**
 
 1. Prepare the data for uploading&#x20;
    1. Add all files for a receiver to a .zip or .7z archive
