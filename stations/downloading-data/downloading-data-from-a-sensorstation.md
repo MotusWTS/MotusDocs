@@ -1,5 +1,9 @@
 # Downloading Data from a SensorStation
 
+{% hint style="info" %}
+More details on this process can be found in Cellular Tracking Technologies SensorStation Manual: [https://cellular-tracking-technologies.github.io/ctt\_documentation/SensorStation-User-Guide.html](https://cellular-tracking-technologies.github.io/ctt_documentation/SensorStation-User-Guide.html)
+{% endhint %}
+
 ## Downloading data from a SensorStation using the web interface
 
 **Note**: that if detection data has not been downloaded from a station for more than 6 months the direct ethernet cable connection should be used to ensure all data files are downloaded and not missed.

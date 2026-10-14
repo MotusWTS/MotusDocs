@@ -1,5 +1,11 @@
 # Downloading Data from a SensorGnome
 
+{% hint style="info" %}
+More details on this process can be found at:&#x20;
+
+[https://docs.motus.org/sensorgnome/setup-and-operation/whattobring](https://docs.motus.org/sensorgnome/setup-and-operation/whattobring) and [https://docs.motus.org/sensorgnome/setup-and-operation/downloading-data](https://docs.motus.org/sensorgnome/setup-and-operation/downloading-data).
+{% endhint %}
+
 ## Downloading data from a SensorGnome (Version 2) using the web interface
 
 ### Equipment
@@ -70,12 +76,6 @@ C) A final option is to unplug the power cord from the Raspberry Pi. We recommen
 
 
 6. Once the station is back on, reconnect to the web interface and check if it is now connecting to internet under the NETWORK tab. It’s also good to confirm it has a GPS fix and is showing the radio devices as described in the steps above.
-
-{% hint style="info" %}
-More details on this process can be found at:&#x20;
-
-[https://docs.motus.org/sensorgnome/setup-and-operation/whattobring](https://docs.motus.org/sensorgnome/setup-and-operation/whattobring) and [https://docs.motus.org/sensorgnome/setup-and-operation/downloading-data](https://docs.motus.org/sensorgnome/setup-and-operation/downloading-data).
-{% endhint %}
 
 ## Downloading data from a SensorGnome (Version 2) using FileZilla
 
