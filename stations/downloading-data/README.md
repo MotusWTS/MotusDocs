@@ -11,7 +11,7 @@ Why are we downloading detection data? Motus receiver stations are only capable 
 Methods for downloading data from a Motus receiver depends on the model of receiver being used. Select a model from the links below to view instructions:
 
 * [SensorGnome](downloading-data-from-a-sensorgnome.md)
-* [CTT SensorStation](https://store.celltracktech.com/pages/installation-guides)
+* [CTT SensorStation](downloading-data-from-a-sensorstation.md)
 * [Lotek SRX](downloading-data-from-a-lotek-srx.md)
 
 {% hint style="info" %}
