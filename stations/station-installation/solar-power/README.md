@@ -8,7 +8,7 @@ Below are two examples of two typical setups with different types of batteries, 
 
 
 
-<div><figure><img src="../../.gitbook/assets/single_solar-panel_battery_diagram (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Solar Power Wiring - Cold Weather (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/single_solar-panel_battery_diagram (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Solar Power Wiring - Cold Weather (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Alternate wiring
 
@@ -16,7 +16,7 @@ In some cases, you may need to use two batteries or two solar panels. This will 
 
 In cases where batteries or solar panels are wired to the same charge controller, they must be wired in parallel (both negatives go to negative terminal on charge controller, both positives to positive terminal)
 
-<div><figure><img src="../../.gitbook/assets/dual_solar-panel_diagram.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/dual_battery_diagram.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/dual_solar-panel_diagram.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/dual_battery_diagram.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="danger" %}
 Make sure the solar panel(s) maximum output current does not exceed 80% of the maximum current of the charge controller. All panels will have the maximum current printed on the back. All charge controllers will also have a maximum current rating, usually in the product name as well as in the specs (e.g.: SS-10L-12v means 10 amps max).
@@ -29,9 +29,9 @@ Read more about charge controllers in [Station Equipment](https://docs.motus.org
 
 ## Supplies
 
-* [Solar Panel](solar-power.md#solar-power)
-* [Battery](solar-power.md#battery)
-* [Charge Controller](solar-power.md#charge-controller)
+* [Solar Panel](./#solar-power)
+* [Battery](./#battery)
+* [Charge Controller](./#charge-controller)
 * [14 AWG Spade](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650) [connectors](https://www.homedepot.com/p/Gardner-Bender-16-14-AWG-4-6-Stud-Spade-Terminal-Vinyl-Blue-10-Pack-15-113/205846650)
 * [Fused battery leads](https://www.amazon.ca/dp/B07CK784LZ/ref=cm_sw_em_r_mt_dp_VNB6X9BCDCWWCVNN4C0A?_encoding=UTF8\&psc=1)
 * 14 AWG stranded automotive or speaker wire.
@@ -43,8 +43,8 @@ Read more about charge controllers in [Station Equipment](https://docs.motus.org
 * [Stripper/crimping tool](https://www.homedepot.com/p/Klein-Tools-Klein-Kurve-Multi-Tool-Wire-Stripper-Crimper-1019SEN/305303655)
 * Multimeter
 
-{% content-ref url="../appendix/parts-list-and-suppliers.md" %}
-[parts-list-and-suppliers.md](../appendix/parts-list-and-suppliers.md)
+{% content-ref url="../../appendix/parts-list-and-suppliers.md" %}
+[parts-list-and-suppliers.md](../../appendix/parts-list-and-suppliers.md)
 {% endcontent-ref %}
 
 ## Instructions

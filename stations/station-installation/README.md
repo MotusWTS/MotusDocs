@@ -1,4 +1,4 @@
-# Installation guide
+# Station Installation
 
 {% hint style="warning" %}
 **We are looking for photos to help complete this guide!** Please send your photos to motus@birdscanada.org
@@ -19,7 +19,7 @@ This guide is still **under development!** Please keep in mind some information 
   * 9-element Yagi (Intermod/Maple Leaf)
   * Omni (Intermod)
 * [Grounding Antennas](grounding-antennas.md)
-* [Solar Power](solar-power.md)
+* [Solar Power](solar-power/)
 * [Storage Bin](storage-container.md)
 * Structures
   * [Building-bracketed Lattice Tower](building-bracketed-lattice-tower.md)
