@@ -16,7 +16,7 @@ The charge controller comes preconfigured with a load output mode that isn't opt
 ## Prerequisites
 
 * [VictronConnect App](https://www.victronenergy.com/victronconnectapp/victronconnect/downloads)
-* [VE.Direct Bluetooth Smart Dongle](https://a.co/d/08uN3tWr)
+* [VE.Direct Bluetooth Smart Dongle](https://a.co/d/08uN3tWr) (if working with Victron Energy BlueSolar MPPT 75/15)
 
 ## Instructions
 
