@@ -140,6 +140,10 @@ While there are dozens of available SDR’s on the market, only four models are 
 Other radio dongles that aren't listed here have not been adequately tested and may not function correctly with the SensorGnome. Despite the high price, we currently recommend FUNCube Pro Plus as they are known to have the best performanc&#x65;_._ See the table below for more information.
 {% endhint %}
 
+{% hint style="danger" %}
+Is is important for FunCube dongles to be flashed with the custom firmware prior to use. Refer [here](https://docs.motus.org/sensorgnome/appendix/flashing-custom-firmware-to-funcube-dongles) for details. For collaborators outside of the Western Hemisphere, it is also important to ensure that the [frequency is set](https://docs.motus.org/sensorgnome/setup-and-operation/radio-configuration#setting-the-correct-frequency-for-lotek-radios) for the correct region.&#x20;
+{% endhint %}
+
 | **Receiver**                                                         | **Price (USD)** | **Power in use** | **Power while idle** | **Reliability** | **Typical noise figure** |
 | -------------------------------------------------------------------- | --------------- | ---------------- | -------------------- | --------------- | ------------------------ |
 | <mark style="background-color:green;">**FUNcube Pro Plus**</mark>    | $225            | 0.8 W (48 kHz)   | 0.8 W (48 kHz)       | Very reliable   | 3.5 dB @ 145 MHz         |
